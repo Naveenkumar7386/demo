@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+    
+    
+}
+
+.first{
+    
+    
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    
+   
+}
+.first:hover{
+    font-size: 20px;
+    
+}
+div:hover{
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    font-display:2s;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover{
+    color: white;
+    border: 3px dotted white;
+    background-color: black;
+    border-radius:15px;
+    
+}
